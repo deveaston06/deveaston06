@@ -6,18 +6,19 @@
 
 ## My Skills 🤹
 
-### Coding
+### Full Stack Web
 - HTML, CSS, Javascript
 - Node
 - Express.js
 - React
-- Next.js (Pages Router)
+- Next.js 14
 - TailwndCSS
+- SQL (PostgreSQL)
+- Angular 10
 
 ### Tools
 - Git
 - Github
-- VSCode
 - Docker Containers
 - Node Package Manager
 
