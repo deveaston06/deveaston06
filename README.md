@@ -1,8 +1,8 @@
 ## About Me 👨🏻‍💻
 
-- 👋 Hi, I’m Eason, a Fullstack Developer Freelancer
+- 👋 Hi, I’m Eason, currently a Electronic Engineering Degree student (Majored in Computer/IoT System)
 - 👀 I’m interested in making full stack web apps (using Typescript)
-- 🌱 I’m currently learning [T3 Stack](https://create.t3.gg/)
+- 🌱 I’m currently learning [Astro](https://astro.build/)
 
 ## My Skills 🤹
 
@@ -15,6 +15,12 @@
 - TailwndCSS
 - SQL (PostgreSQL)
 - Angular 10
+- Astro
+
+### Systems
+- Computer Vision System (Ultralytic YOLO)
+- Control System (MATLAB)
+- IoT System (Arduino)
 
 ### Tools
 - Git
