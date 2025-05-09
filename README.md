@@ -20,14 +20,14 @@
 ### Systems
 - Computer Vision System (Ultralytic YOLO)
 - Control System (MATLAB & Simulink)
-- IoT System (Arduino)
+- IoT System (Arduino & ESP32)
 
 ### Tools
 - Git
-- Github
+- Bash Commands
 - Docker Containers
 - Node Package Manager
-- Linux Command Line
+- PlatformIO
 
 ## Contact Me 📫
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />](https://www.linkedin.com/in/dev-easton-kok-ab280b294/)
