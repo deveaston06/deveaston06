@@ -19,7 +19,7 @@
 
 ### Systems
 - Computer Vision System (Ultralytic YOLO)
-- Control System (MATLAB)
+- Control System (MATLAB & Simulink)
 - IoT System (Arduino)
 
 ### Tools
