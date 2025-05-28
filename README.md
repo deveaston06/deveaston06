@@ -18,9 +18,9 @@
 - Astro
 
 ### Systems
-- Computer Vision System (Ultralytic YOLO)
+- Computer Vision System (Tensorflow/Scikit-Learn/YOLO CNN)
 - Control System (MATLAB & Simulink)
-- IoT System (Arduino & ESP32)
+- IoT System (Raspberry PI 4, Arduino & ESP32)
 
 ### Tools
 - Git
