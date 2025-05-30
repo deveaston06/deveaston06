@@ -26,7 +26,7 @@
 ### Electronics 
 - AutoCAD
 - NI MultiSim
-- Altium
+- Proteus
 
 ### Firmware
 - PlatformIO
