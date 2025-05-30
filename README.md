@@ -1,8 +1,8 @@
 ## About Me 👨🏻‍💻
 
 - 👋 Hi, I’m Eason, currently a Electronic Engineering Degree student (Majored in Computer/IoT System)
-- 👀 I’m interested in making full stack web apps (using Typescript)
-- 🌱 I’m currently learning [Astro](https://astro.build/)
+- 👀 I’m interested in teaching people engineering concepts
+- 🌱 I’m currently learning [Astrobee](https://github.com/nasa/astrobee)
 
 ## My Skills 🤹
 
@@ -24,9 +24,11 @@
 
 ### Tools
 - Git
-- Bash Commands
-- Docker Containers
-- Node Package Manager
+- Docker
+- MariaDB
+- NeoVim 😩
+- Linux Server (Debian/Ubuntu)
+- NPM (Node Package Manager)
 - PlatformIO
 
 ## Contact Me 📫
