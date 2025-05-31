@@ -39,4 +39,4 @@
 - IoT System (Raspberry PI 4, Arduino & ESP32)
 
 ## Contact Me 📫
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />](https://www.linkedin.com/in/dev-easton-kok-ab280b294/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />](https://www.linkedin.com/in/kokeason/)
