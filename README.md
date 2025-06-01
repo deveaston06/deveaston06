@@ -7,7 +7,6 @@
 ## My Skills 🤹
 
 ### Software
-- HTML, CSS, Javascript
 - Next.js
 - TailwndCSS
 - Astro
@@ -18,7 +17,6 @@
 - Git
 - Docker
 - MariaDB
-- PostgeSQL
 - Linux Server (Debian/Ubuntu)
 - NPM (Node Package Manager)
 - PIP (Python Package Installer)
