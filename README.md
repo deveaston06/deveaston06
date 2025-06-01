@@ -8,11 +8,11 @@
 
 ### Software
 - HTML, CSS, Javascript
-- Node
-- React
-- Next.js 14
+- Next.js
 - TailwndCSS
 - Astro
+- Python
+- C/C++
 
 ### Tools
 - Git
