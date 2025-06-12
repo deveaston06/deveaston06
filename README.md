@@ -10,13 +10,9 @@
 |      System       |             Related Skills                |
 |-------------------|-------------------------------------------|
 | Fullstack Web App | Next.js, Astro, Sveltekit, MySQL          |
-|-------------------|-------------------------------------------|
 | Computer Vision   | Python, Tensorflow, Scikit-Learn, Yolov11 |
-|-------------------|-------------------------------------------|
 | Control System    | Matlab, Simulink, App Designer            |
-|-------------------|-------------------------------------------|
 | Embedded System   | C (PlatformIO), NodeRED, HTTP & MQTT      |
-|-------------------|-------------------------------------------|
 
 ### Systems
 - Computer Vision System (Tensorflow/Scikit-Learn/YOLO CNN)
