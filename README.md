@@ -6,15 +6,27 @@
 
 ## My Skills 🤹
 
-### Programming
-- TailwndCSS
-- Astro
-- Next.js
-- Svelte
-- Bash
-- Python
-- C/C++
-- MySQL
+### Software
+| System    | Related Skills |
+|---------- | -------------- |
+| Fullstack | Next.js        |
+| Web App   | Astro          |
+|           | Sveltekit      |
+|           | MySQL          |
+|---------- | -------------- |
+| Computer  | Tensorflow     |
+| Vision    | Scikit-Learn   |
+| System    | Yolov11        |
+|           | Python         |
+|---------- | -------------- |
+| Control   | Matlab         |
+| /Signal   | Simulink       |
+| System    | App Designer   |
+|---------- | -------------- |
+| Embedded  | C / .ino       |
+| System    | NodeRED        |
+|           | HTTP & MQTT    |
+|---------- | -------------- |
 
 ### Systems
 - Computer Vision System (Tensorflow/Scikit-Learn/YOLO CNN)
@@ -26,15 +38,15 @@
 ### CLIs
 - Git
 - Docker
-- MySQL Shell
+- Bash Script
 - Linux Server (Debian/Ubuntu)
 - NPM (Node Package Manager)
 - PIP (Python Package Installer)
 
 ### PCB
 - Altium
-- NI MultiSim 13.4
 - Proteus
+- NI MultiSim 13.4
 
 ### Mechanical
 - SOLIDWORKS 2023
