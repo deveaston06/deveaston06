@@ -20,6 +20,7 @@
 
 ### PCB
 - AutoCAD
+- Altium
 - NI MultiSim
 - Proteus
 
