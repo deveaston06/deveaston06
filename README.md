@@ -6,7 +6,8 @@
 
 ## My Skills 🤹
 
-### Software
+### Programming
+
 |      System       | Related Skills |
 |-------------------|----------------|
 | Fullstack Web App | Next.js        |
@@ -23,6 +24,7 @@
 | Embedded System   | C (PlatformIO) |
 |                   | NodeRED        |
 |                   | HTTP & MQTT    |
+
 
 ### Tools
 
