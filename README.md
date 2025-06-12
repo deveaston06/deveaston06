@@ -19,7 +19,6 @@
 - Arduino IDE
 
 ### PCB
-- AutoCAD
 - Altium
 - NI MultiSim
 - Proteus
