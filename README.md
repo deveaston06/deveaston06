@@ -7,26 +7,16 @@
 ## My Skills 🤹
 
 ### Software
-| System    | Related Skills |
-|---------- | -------------- |
-| Fullstack | Next.js        |
-| Web App   | Astro          |
-|           | Sveltekit      |
-|           | MySQL          |
-|---------- | -------------- |
-| Computer  | Tensorflow     |
-| Vision    | Scikit-Learn   |
-| System    | Yolov11        |
-|           | Python         |
-|---------- | -------------- |
-| Control   | Matlab         |
-| /Signal   | Simulink       |
-| System    | App Designer   |
-|---------- | -------------- |
-| Embedded  | C / .ino       |
-| System    | NodeRED        |
-|           | HTTP & MQTT    |
-|---------- | -------------- |
+|      System       |             Related Skills                |
+|-------------------|-------------------------------------------|
+| Fullstack Web App | Next.js, Astro, Sveltekit, MySQL          |
+|-------------------|-------------------------------------------|
+| Computer Vision   | Python, Tensorflow, Scikit-Learn, Yolov11 |
+|-------------------|-------------------------------------------|
+| Control System    | Matlab, Simulink, App Designer            |
+|-------------------|-------------------------------------------|
+| Embedded System   | C (PlatformIO), NodeRED, HTTP & MQTT      |
+|-------------------|-------------------------------------------|
 
 ### Systems
 - Computer Vision System (Tensorflow/Scikit-Learn/YOLO CNN)
