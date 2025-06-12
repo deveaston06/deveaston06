@@ -1,7 +1,7 @@
 ## About Me 👨🏻‍💻
 
-- 👋 Hi, I’m Eason, currently a Electronic Engineering Degree student (Majored in Computer/IoT System)
-- 👀 I’m interested in teaching others automation systems
+- 👋 Hi, I’m Eason, currently a Electronic Engineering Degree student (Computer System)
+- 👀 I’m interested in teaching others embedded systems
 - 🌱 I’m currently learning [Astrobee](https://github.com/nasa/astrobee)
 
 ## My Skills 🤹
