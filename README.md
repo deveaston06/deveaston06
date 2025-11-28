@@ -1,8 +1,8 @@
 ## About Me 👨🏻‍💻
 
 - 👋 Hi, I’m Eason, currently a Electronic Engineering Degree student (Computer System)
-- 👀 I’m interested in teaching others embedded systems
-- 🌱 I’m currently learning [Astrobee](https://github.com/nasa/astrobee)
+- 👀 I’m interested in learning embedded systems
+- 🌱 I’m currently learning [BLE for ESP32](https://github.com/deveaston06/makeid-l1-printer-sample)
 
 ## My Skills 🤹
 
