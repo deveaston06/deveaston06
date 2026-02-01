@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Eason, currently a Electronic Engineering Degree student (Computer System)
 - 👀 I’m interested in learning embedded systems
-- 🌱 I’m currently learning [BLE for ESP32](https://github.com/deveaston06/makeid-l1-printer-sample)
+- 🌱 I’m currently learning to use [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 
 ## My Skills 🤹
 
