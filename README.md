@@ -44,3 +44,11 @@
 
 ## Contact Me 📫
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />](https://www.linkedin.com/in/kokeason/)
+
+## My GitHub Stats
+
+<div align="center"> 
+ <a href="">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deveaston06&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40&title_color=40E0D0&icon_color=40E0D0&text_color=ffffff&bg_color=0d1117" />
+</a>
+</div>
